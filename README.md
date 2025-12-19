@@ -1,4 +1,4 @@
-# Yonu – Telegram File Uploader (CLI)
+### Yonu – Telegram File Uploader (CLI)
 
 Yonu is a lightweight command-line tool that uploads a file to Telegram using a bot account.  
 It is designed to be simple, fast, and script-friendly.
@@ -12,7 +12,7 @@ yonu path/to/file.mkv
 The file will be sent to a specified Telegram chat (user, group, or channel).
 
 
-# Features
+### Features
 
 📤 Upload any file to Telegram (Maximum file size is 2gb)
 
@@ -24,7 +24,8 @@ The file will be sent to a specified Telegram chat (user, group, or channel).
 
 🧩 Easy to integrate into scripts and automation workflows
 
-# Requirements
+
+### Requirements
 
 Python 3.8+
 
@@ -34,13 +35,13 @@ Telegram API credentials (https://my.telegram.org/apps)
 
 A Telegram bot token (you can get it from (@BotFather)[https://t.me/BotFather] in Telegram)
 
-Python dependencies:
+### Python dependencies:
 
 pyrogram
 
 tgcrypto (recommended for better performance)
 
-# Installation
+### Installation
 
 1. Clone the repository
    
@@ -77,7 +78,7 @@ You can get:
 `CHAT_ID` using a Telegram ID bot or Pyrogram 
 
 
-# Usage 
+### Usage 
 Make the script executable
 ```
 chmod +x yonu.py
@@ -94,7 +95,7 @@ yonu example.txt
 ```
 If the file exists, it will be uploaded to Telegram.
 
-# Notes
+### Notes
 
 This tool runs as a one-shot command (not a background service).
 
@@ -103,7 +104,7 @@ Best suited for manual uploads or scripting.
 Large files may take time depending on your connection and Telegram limits.
 
 
-# Disclaimer
+### Disclaimer
 
 This project is not affiliated with Telegram.
 Use responsibly and respect Telegram’s terms of service.
