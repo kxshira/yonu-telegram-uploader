@@ -47,7 +47,7 @@ tgcrypto (recommended for better performance)
    
 ```bash
 git clone https://github.com/kxshira/yonu-telegram-uploader.git
-cd yonu
+cd yonu-telegram-uploade
 ```
 
 if you dont have git on your linux install git first 
