@@ -108,3 +108,9 @@ Large files may take time depending on your connection and Telegram limits.
 
 This project is not affiliated with Telegram.
 Use responsibly and respect Telegram’s terms of service.
+
+
+## Name
+
+"Yonu" is a short, abstract name chosen for its simplicity and uniqueness.
+It does not have an official definition.
